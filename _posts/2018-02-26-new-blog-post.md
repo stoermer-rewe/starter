@@ -15,4 +15,4 @@ Denn *esse est percipi* - Sein ist wahrgenommen werden. Und weil Sie nun schon d
 
 So gibt es Regeln für HTML, CSS, JavaScript oder auch XML; Worte, die Sie vielleicht schon einmal von Ihrem Entwickler gehört haben. Diese Standards sorgen dafür, dass alle Beteiligten aus einer Webseite den größten Nutzen ziehen. Im Gegensatz zu früheren Webseiten müssen wir zum Beispiel nicht mehr zwei verschiedene Webseiten für den Internet Explorer und einen anderen Browser programmieren.
 
-[Speiseplan](gemeinsamgeniessen.webspeiseplan.de/index.php?standort=203&plustage=0&lang=1&outlet=3 "Menuplan")
+[Speiseplan](http://gemeinsamgeniessen.webspeiseplan.de/index.php?standort=203&plustage=0&lang=1&outlet=3 "Menuplan")
