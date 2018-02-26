@@ -1,10 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: New Blog Post
-splash: ''
-tags: ''
 ---
 ## A New Post with Prose and Jekyll
 
